@@ -2,7 +2,7 @@
 MapReduce example on getting list of mutual friends, InMemory join, ReduceSide join
 
 
-!) Part1: Getting the mutual friend lists given a adjacency list of person and friends
+1) Part1: Getting the mutual friend lists given a adjacency list of person and friends
 
 Command to Run: hadoop jar MutualFriend.jar <input_files_adj_list> <output_folder>
 
